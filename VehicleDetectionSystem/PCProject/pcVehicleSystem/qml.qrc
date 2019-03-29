@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>QMLModule/CustomizedWidgets/TitleBar.qml</file>
+        <file>QMLModule/CustomizedComponent/FImage.qml</file>
+        <file>QMLModule/Singleton/QmlSingleton.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>

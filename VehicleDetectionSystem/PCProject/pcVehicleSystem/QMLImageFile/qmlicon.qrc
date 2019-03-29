@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tab_close.png</file>
+        <file>tab_close_w.png</file>
+        <file>tab_hide.png</file>
+        <file>tab_hide_w.png</file>
+        <file>tab_smaller.png</file>
+        <file>tab_smaller_w.png</file>
+    </qresource>
+</RCC>
